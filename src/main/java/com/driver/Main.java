@@ -11,7 +11,7 @@ public class Main {
 
         double ans2 =p.product(5.6,6.7);
     }
-    static class Product{
+    public static class Product{
 
         public int product(int x, int y)
         {
